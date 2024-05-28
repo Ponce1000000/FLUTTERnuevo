@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "194799374366",
+    "project_id": "proyecto-base-de-datos-b6f45",
+    "storage_bucket": "proyecto-base-de-datos-b6f45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194799374366:android:9435bc9a7b43bb41841e0f",
+        "android_client_info": {
+          "package_name": "com.jared.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8DuO7u5QTKDzjLnynyR_0NTapl-kiFpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
